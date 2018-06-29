@@ -1,4 +1,3 @@
-![baidu](http://www.baidu.com/img/bdlogo.gif) 
 1. 方通过webpack搭建vue工程;
 2. .vue文件开发模式;
 3. vue使用jsx进行开发的方式;
