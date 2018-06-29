@@ -1,8 +1,4 @@
-![image](https://note.youdao.com/favicon.ico)
 
-```
-var a = 'hello world'
-```
 1. 方通过webpack搭建vue工程;
 2. .vue文件开发模式;
 3. vue使用jsx进行开发的方式;
@@ -14,7 +10,7 @@ var a = 'hello world'
 
 根目录webpack.config.js
 
-```
+```js
 const config = {
   entry: path.join(__dirname, 'src/index.js'),
   output: {
